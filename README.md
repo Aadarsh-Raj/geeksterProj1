@@ -1,4 +1,5 @@
 # geeksterProj1
+hosted link --> https://aadarsh-raj.github.io/geeksterProj1/htmlfile/geekproject1.html
 <img width="758" alt="image" src="https://github.com/Aadarsh-Raj/geekProject1/assets/74525154/71fc8b07-0875-416c-8273-2d7c434c0416">
 # tags used
 1. div tag -> used to seperated contents using a container
