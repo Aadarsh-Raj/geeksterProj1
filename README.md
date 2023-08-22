@@ -35,11 +35,6 @@ pre tag -> use to write sentences as same as written on editor like breaks the l
 
 
 
-<img width="554" alt="image" src="https://github.com/Aadarsh-Raj/geekProject1/assets/74525154/978c8847-b9a8-4bd0-9bbb-ca704b5f1bb9">
-
-
-
-b tag -> used to bold the particular part in the sentence.
 
 
 <img width="311" alt="image" src="https://github.com/Aadarsh-Raj/geekProject1/assets/74525154/00c549ab-4d2f-4eb0-8458-c59002128ff5">
