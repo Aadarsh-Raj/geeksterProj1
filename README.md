@@ -1,45 +1,42 @@
 # geeksterProj1
 hosted link --> https://aadarsh-raj.github.io/geeksterProj1/htmlfile/geekproject1.html
-<img width="758" alt="image" src="https://github.com/Aadarsh-Raj/geekProject1/assets/74525154/71fc8b07-0875-416c-8273-2d7c434c0416">
+# Tags with explaination
 
 
-# tags used
-1. div tag -> used to seperated contents using a container
-2. h(1/2/3/4/5/6) tag -> used to give the heading for the words where h1 has the largest size and decreases when increasing the number(max can be 6 only).
-3. br tag -> used to break the line.
+<img width="430" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj1/assets/74525154/c25988d9-7dd3-4a54-8023-5a351707b708">
 
 
+<!doctype html> --> used to identify the codes as html language.
+<head> --> used it to show the head of the html structure.
+<title> --> used to give the title of the html page.
 
-<img width="574" alt="image" src="https://github.com/Aadarsh-Raj/geekProject1/assets/74525154/209c6a58-58eb-4fef-803a-bef3aa5c914e">
-
-
-
-4. p tag -> use to show the paragraph.
-
-
-<img width="622" alt="image" src="https://github.com/Aadarsh-Raj/geekProject1/assets/74525154/2f523fcc-24c9-4baa-81e3-5331aaa487e8">
+<img width="466" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj1/assets/74525154/40bb68c7-182a-4eec-8c6b-5756550dbc1b">
 
 
+<div> --> used it like as container in which some elements are presents.
+<h1> --> used it for heading in the container.
+<p> --> used it to set content as the paragraph.
 
-5. ol tag -> use to list items in ordered (numbered) way.
-6. ul tag -> use to list items without numbering.
-7. li tag -> use to list.
+<img width="425" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj1/assets/74525154/88d754f9-cf67-44ff-85cf-ba6189e5455c">
 
 
 
-<img width="323" alt="image" src="https://github.com/Aadarsh-Raj/geekProject1/assets/74525154/e1f46dc8-d9c0-4c27-bfea-11c4af2d03a5">
+<hr> --> used it to give a horizontal line after container or as required to the project.
+ol --> used it to list items as rank or in increasing order.
+ul --> used it to list items without ranking.
+li --> used it for list an item.
 
 
-
-pre tag -> use to write sentences as same as written on editor like breaks the line same as written in the editor.
-
+<img width="449" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj1/assets/74525154/f2dae26a-8d23-4598-b94c-9f0bba96a12e">
 
 
+<dl> --> used to list the descpriptions.
+<dd> --> used for definition description 
+<dt> --> used to specify the description list.
 
 
-<img width="311" alt="image" src="https://github.com/Aadarsh-Raj/geekProject1/assets/74525154/00c549ab-4d2f-4eb0-8458-c59002128ff5">
+<img width="224" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj1/assets/74525154/9896ac5a-300c-4220-ab0d-5c62c9a7af0a">
 
 
+<pre> --> it is used for preformatted text.
 
-class attribute -> used to defined particular parts/section with particular name.
-margin property of style attribute --> used to give spaces from right,left, top and bottom.
